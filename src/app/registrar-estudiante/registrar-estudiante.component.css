@@ -1,0 +1,10 @@
+.for-registro {
+    position: relative;
+  z-index: 1;
+  background:whitesmoke;
+  top: 75px;
+  max-width: 1000px;
+  margin: 0 auto 100px;
+  padding: 75px;
+  text-align: center;
+}
